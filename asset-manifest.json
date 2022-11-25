@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5886288.css",
+    "main.js": "/static/js/main.a7def75d.js",
+    "static/media/SpoqaHanSans-Light.woff": "/static/media/SpoqaHanSans-Light.2efd9d0cd25cfd2e3e16.woff",
+    "static/media/SpoqaHanSans-Thin.woff": "/static/media/SpoqaHanSans-Thin.fa5d85bca1b2b4ad3c56.woff",
+    "static/media/SpoqaHanSans-Regular.woff": "/static/media/SpoqaHanSans-Regular.a4038e1b6c14b2b6028c.woff",
+    "static/media/SpoqaHanSans-Bold.woff": "/static/media/SpoqaHanSans-Bold.9f50fee9013d88ea4012.woff",
+    "static/media/SpoqaHanSans-Regular.woff2": "/static/media/SpoqaHanSans-Regular.f0dfba6d8d96921fc0dc.woff2",
+    "static/media/SpoqaHanSans-Bold.woff2": "/static/media/SpoqaHanSans-Bold.c7298d774729a38947f4.woff2",
+    "static/media/SpoqaHanSans-Light.woff2": "/static/media/SpoqaHanSans-Light.fe35728c84dba43483ea.woff2",
+    "static/media/SpoqaHanSans-Thin.woff2": "/static/media/SpoqaHanSans-Thin.7204984cda33621b74fb.woff2",
+    "static/media/icon-shopping-cart.svg": "/static/media/icon-shopping-cart.18235e9416ff46dab4873fcc9fa86f00.svg",
+    "static/media/icon-heart-on.svg": "/static/media/icon-heart-on.0f6bbd4903724c3c16387efb41f92a03.svg",
+    "static/media/icon-heart.svg": "/static/media/icon-heart.f68a21bc77488dac8c34b7650d1237ab.svg",
+    "index.html": "/index.html",
+    "main.a5886288.css.map": "/static/css/main.a5886288.css.map",
+    "main.a7def75d.js.map": "/static/js/main.a7def75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5886288.css",
+    "static/js/main.a7def75d.js"
+  ]
+}
